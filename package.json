@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.17.0",
+    "http-server": "^14.1.0"
+  }
+}
